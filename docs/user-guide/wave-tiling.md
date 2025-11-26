@@ -271,13 +271,6 @@ Emission: 0.5
 
 ---
 
-
-
----
-
-
----
-
 ## Combining with Other Properties
 
 ### Pattern + Speed Combinations
