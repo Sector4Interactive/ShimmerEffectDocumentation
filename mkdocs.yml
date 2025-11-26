@@ -1,7 +1,8 @@
 site_name: Shimmer Effect Highlight
 site_description: Complete documentation for the Shimmer Effect Highlight Unity Asset
 site_author: Sector4
-repo_url: https://github.com/yourusername/shimmer-effect-docs
+site_url: https://sector4interactive.github.io/ShimmerEffectDocumentation/
+repo_url: https://github.com/Sector4Interactive/ShimmerEffectDocumentation
 repo_name: GitHub
 
 theme:

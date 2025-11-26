@@ -3,7 +3,7 @@ name: Deploy Documentation to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change to 'master' if that's your default branch
+      - ShimmerDocSite  # Deploy from ShimmerDocSite branch
   workflow_dispatch:  # Allows manual triggering from Actions tab
 
 permissions:
