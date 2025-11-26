@@ -23,20 +23,7 @@ Shimmer Effect Highlight is a powerful shader-based system that creates eye-catc
 3. Customize the shimmer properties to your liking
 4. Enjoy beautiful, animated highlights!
 
-## 📚 Documentation Sections
 
-<div class="grid cards" markdown>
-
--   :material-download:{ .lg .middle } __Getting Started__
-
-    ---
-
-    Learn how to install and set up the asset in your Unity project
-
-    [:octicons-arrow-right-24: Installation Guide](getting-started/installation.md)
-
-
-</div>
 
 ## 🎮 Use Cases
 
