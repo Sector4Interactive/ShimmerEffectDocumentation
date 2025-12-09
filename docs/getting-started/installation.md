@@ -21,7 +21,7 @@ This guide will help you install the Shimmer Effect Highlight asset into your Un
 7. In the import dialog, ensure all files are selected and click **Import**
 
 !!! success "Installation Complete"
-    The asset will be imported to `Assets/Sector4/Shimmer Effect/`
+    The asset will be imported to `Assets/GameReadyTools/Shimmer Effect/`
 
 ### Step 2: Verify Installation
 
@@ -29,7 +29,7 @@ After importing, you should see the following folder structure:
 
 ```
 Assets/
-└── Sector4/
+└── GameReadyTools/
     └── Shimmer Effect/
         ├── Materials/
         │   └── Shimmer_Effect_Highlight.mat
@@ -44,7 +44,7 @@ Assets/
 
 To verify everything is working correctly:
 
-1. Navigate to `Assets/Sector4/Shimmer Effect/Scenes/`
+1. Navigate to `Assets/GameReadyTools/Shimmer Effect/Scenes/`
 2. Open the **Shimmer_Effect_Highlight_Demo**
 3. Press **Play** to see the shimmer effect in action
 4. Explore the various examples and configurations

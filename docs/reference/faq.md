@@ -31,7 +31,7 @@ Not directly. The shader would need to be rebuilt for HDRP. Consider this a URP-
 
 ### Where are the asset files located after import?
 
-All files are imported to: `Assets/Sector4/Shimmer Effect/`
+All files are imported to: `Assets/GameReadyTools/Shimmer Effect/`
 
 ### Why is my material appearing pink/magenta?
 

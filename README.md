@@ -269,7 +269,7 @@ mkdocs serve
 
 ## 📄 License
 
-This documentation website is created for the Shimmer Effect Highlight Unity Asset by Sector4.
+This documentation website is created for the Shimmer Effect Highlight Unity Asset by GameReadyTools.
 
 ## 🤝 Support
 

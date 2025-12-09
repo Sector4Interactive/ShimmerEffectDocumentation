@@ -84,7 +84,7 @@ The primary support channel is through the Unity Asset Store:
 **Response Time:** Typically 1-3 business days
 
 #### 2. Publisher Contact
-- **Publisher**: Sector4
+- **Publisher**: GameReadyTools
 - **Contact Method**: Via Unity Asset Store messaging system
 
 #### 3. Community Support

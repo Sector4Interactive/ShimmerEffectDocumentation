@@ -5,7 +5,7 @@ Complete reference of all files and folders included in the Shimmer Effect Highl
 ## Package Structure
 
 ```
-Assets/Sector4/Shimmer Effect/
+Assets/GameReadyTools/Shimmer Effect/
 ├── Materials/
 │   └── Shimmer_Effect_Highlight.mat
 ├── Scenes/
@@ -230,7 +230,7 @@ You can open and modify this shader graph if you need advanced customization:
 
 All files are imported to:
 ```
-Assets/Sector4/Shimmer Effect/
+Assets/GameReadyTools/Shimmer Effect/
 ```
 
 ### Organization Tips
@@ -238,7 +238,7 @@ Assets/Sector4/Shimmer Effect/
 **For Your Project:**
 ```
 Assets/
-├── Sector4/
+├── GameReadyTools/
 │   └── Shimmer Effect/          # Original asset (keep untouched)
 └── YourGame/
     ├── Materials/
@@ -263,7 +263,7 @@ Assets/
 ## Asset Information
 
 **Package Name:** Shimmer Effect Highlight  
-**Publisher:** Sector4  
+**Publisher:** GameReadyTools  
 **Version:** 1.0  
 **Category:** Shaders & Effects  
 **License:** Standard Unity Asset Store EULA

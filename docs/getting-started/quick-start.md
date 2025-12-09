@@ -14,7 +14,7 @@ The fastest way to add a shimmer effect:
 2. **Apply the Material**
    - In the Inspector, find the **Mesh Renderer** component
    - Expand the **Materials** section
-   - Drag `Shimmer_Effect_Highlight.mat` from `Assets/Sector4/Shimmer Effect/Materials/` into the material slot
+   - Drag `Shimmer_Effect_Highlight.mat` from `Assets/GameReadyTools/Shimmer Effect/Materials/` into the material slot
 
 3. **Enter Play Mode**
    - Press the Play button to see your shimmer effect in action!

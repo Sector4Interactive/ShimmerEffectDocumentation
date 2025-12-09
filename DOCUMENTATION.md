@@ -17,7 +17,7 @@
 
 ### Step 1: Import the Asset
 1. Import the asset package into your Unity project
-2. The asset will be placed in `Assets/Sector4/Shimmer Effect/`
+2. The asset will be placed in `Assets/GameReadyTools/Shimmer Effect/`
 
 #### Normal Map On/Off
 - **Type**: Dropdown (Enum)
