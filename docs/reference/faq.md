@@ -5,8 +5,8 @@ Common questions and answers about Shimmer Effect Highlight.
 ## General Questions
 
 ### What is Shimmer Effect Highlight?
-
-Shimmer Effect Highlight is a Unity shader-based asset that adds animated shimmer and highlight effects to 3D objects. It's perfect for highlighting important items, creating magical effects, or adding visual polish to your game.
+Shimmer FX | Pickable Object Highlight | Shine FX
+       is a Unity shader-based asset that adds animated shimmer and highlight effects to 3D objects. It's perfect for highlighting important items, creating magical effects, or adding visual polish to your game.
 
 ### What Unity version do I need?
 
